@@ -57,4 +57,17 @@
 
 <h2> Insignias 🏆</h2>
 
+<p align="center">
+ <img src="insignias/ic.png" width="100">
+<img src="insignias/nb.png" width="100">
+<img src="insignias/nd.png" width="100">
+<img src="insignias/es.png" width="100">
+</p>
 
+<p align="center">
+  <img src="insignias/ndc.png" width="100">
+<img src="insignias/ctm.png" width="100">
+<img src="insignias/HW1.png" width="100">
+<img src="insignias/HW2.png" width="100">
+<img src="insignias/HWV.png" width="100">
+</p>
