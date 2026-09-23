@@ -17,13 +17,11 @@
 
 📝 ROLES EN EL ÁMBITO:
 
-✨Trainee
-✨Líder colaborativa
+✨Analista de Ciberseguridad Jr.
 ✨Comunicadora
+✨Líder colaborativa
 ✨Diseñadora
-✨SOC L1 
-✨Hacker ético
-...y en un futuro quién sabe ☺️
+✨Hacker ético... y en un futuro quién sabe ☺️
 
 
 📫 Contacto: **jennyrev16@gmail.com**
