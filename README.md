@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋  soy Jennifer Reveles / JennRev ✨ </h1> 
 
 <p align="center">
-  <a href="https://www.youtube.com/@jennreveles8062" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@jennrev8062"  /></a>
 <a href="https://www.linkedin.com/in/jennifer-reveles/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jennifer Reveles"/></a>
 <a href = "mailto:jennyrev16@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Jenn Reveles"  /></a>
   </p>
